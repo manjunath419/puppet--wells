@@ -1,0 +1,18 @@
+{
+  "name": "manjunath419-web",
+  "version": "0.1.0",
+  "author": "Manjunath M m.manjunath419@gmail.com",
+  "summary": "test module for training",
+  "license": "Apache-2.0",
+  "source": "https://github.com/manjunath419/puppet--wells",
+  "project_page": "https://github.com/manjunath419/puppet--wells",
+  "issues_url": "https://github.com/manjunath419/puppet--wells/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ],
+  "data_provider": null
+}
+
